@@ -1,0 +1,2 @@
+# A-sequence-to-sequence-hierarchical-classification-method-for-customer-query-matching
+A method that automatically matches customer queries to the preset answer. Since query categories are often organized as a tree according to their categorical relationships, we leverage the tree structure and propose a hierarchical tree-based sequence-to-sequence model (i.e., Tree-seq2seq) to improve the accuracy of query classification.
